@@ -1,0 +1,9 @@
+langgraph
+langchain-core
+langchain-ollama
+langchain-google-genai
+pymongo
+python-dotenv
+requests
+reportlab
+typing-extensions
